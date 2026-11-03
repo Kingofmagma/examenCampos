@@ -1,0 +1,2 @@
+mkdir prog si bbdd
+touch prog/index.php
